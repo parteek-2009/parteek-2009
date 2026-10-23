@@ -24,5 +24,5 @@ My goal is to build AI systems that don't just look impressive in a demo but act
 
 ---
 
-[LinkedIn](YOUR_LINKEDIN_LINK) · [X](YOUR_X_LINK) · [Email](YOUR_EMAIL)
+[LinkedIn](linkedin.com/in/parteeksaini) · [X](https://x.com/ParteekLabs) · [Email](parteeksaini2009@gmail.com)
 
