@@ -22,7 +22,3 @@ My goal is to build AI systems that don't just look impressive in a demo but act
 
 **Tech I work with:** Python, ML, deep learning, LLMs, AI agents, system design, AI infrastructure, and deployment.
 
----
-
-[LinkedIn](linkedin.com/in/parteeksaini) · [X](https://x.com/ParteekLabs) · [Email](parteeksaini2009@gmail.com)
-
